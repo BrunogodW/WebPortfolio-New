@@ -8,8 +8,6 @@
 [![Online](https://img.shields.io/badge/🌐_Ver_portfólio-online-brightgreen?style=for-the-badge)](https://brunogodw.github.io/WebPortfolio-New/)
 [![GitHub Pages](https://img.shields.io/badge/Hospedado_no-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://pages.github.com/)
 
-<img src="img/BrunoVampiro.jpeg" alt="Bruno Da Rosa Soares" width="220"/>
-
 </div>
 
 ---
